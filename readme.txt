@@ -7,3 +7,4 @@ oooooooooooooooooooooo
 di woyebuzhidao dijihangle
 zhe qishi shi yigece shi a 
 Creating a new branch is quick.
+Creating a new branch is quick & simpleCreating a new branch is quick & simple
